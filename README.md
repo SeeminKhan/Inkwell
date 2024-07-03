@@ -24,10 +24,10 @@ You need to have the following software installed on your system:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/SeeminKhan/react-blog-app.git
+   git clone https://github.com/SeeminKhan/Inkwell.git
    
 2. Navigate to the project directory:
-   cd react-blog-app
+   cd Inkwell
 3. Install the dependencies:
    npm install
 4. Run the app :
