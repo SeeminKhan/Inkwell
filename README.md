@@ -30,4 +30,5 @@ You need to have the following software installed on your system:
    cd react-blog-app
 3. Install the dependencies:
    npm install
+4. Run the app :
    npm run dev
